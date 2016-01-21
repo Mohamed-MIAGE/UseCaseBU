@@ -4,7 +4,7 @@
 <h2>Sujet : Plan interactif BU </h2>
 
 <p>
-Le but de notre projet est de concevoir et créer un plan interactif de la bibliothèque de l’université de Paris Ouest Nanterre la Défense. Ainsi, notre référent client est « un groupe projet au sein du Service Commun de la Documentation ».
+Le but de notre projet est de concevoir et créer un plan interactif de la bibliothèque de l’université de Paris Ouest Nanterre la Défense. Ainsi, notre référent client devrait être « un groupe projet au sein du Service Commun de la Documentation », cependant pour ce cours, nous aurons un référent intermédiaire, qui sera notre enseignant, M. Rousseau.
 </p>
 <p>
 Le cahier des charges de ce projet a pour contraintes le fait de concevoir ce plan pour une application web et/ou mobile. Nous avons choisi de le réaliser pour une application mobile. En effet, après réflexion, il nous a semblé logique que 
